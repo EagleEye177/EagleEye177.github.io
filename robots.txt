@@ -1,0 +1,6 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://EagleEye177.github.io/EagleEye177_github_io_zp533_15.txt
+Sitemap: https://EagleEye177.github.io/EagleEye177_github_io_zp533_24.txt
+Sitemap: https://EagleEye177.github.io/EagleEye177_github_io_zp533_7.txt
